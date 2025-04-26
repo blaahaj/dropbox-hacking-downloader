@@ -1,6 +1,6 @@
 {
   "name": "@blaahaj/dropbox-hacking-downloader",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Download from Dropbox",
   "main": "index.js",
   "scripts": {
